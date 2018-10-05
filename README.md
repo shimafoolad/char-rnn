@@ -1,4 +1,4 @@
-# code description of Minimal character-level language model with a Vanilla Recurrent Neural Network
+# RNN example (step by step description): Minimal character-level language model with a Vanilla Recurrent Neural Network
 Reference page: https://gist.github.com/karpathy/d4dee566867f8291f086
 
 # Overview
